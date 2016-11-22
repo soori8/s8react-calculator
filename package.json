@@ -1,8 +1,8 @@
 {
-  "name": "react-calculator",
+  "name": "s8react-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://soori8.github.io/react-calculator",
+  "homepage": "https://soori8.github.io/s8react-calculator",
   "devDependencies": {
     "gh-pages": "^0.12.0",
     "react-scripts": "0.6.1"
